@@ -5,8 +5,8 @@
 
 This project requires Python and the following Python libraries installed:
 
-Numpy
-Matplotlib
-Pandas
+1. Numpy
+2. Matplotlib
+3. Pandas
 
 You will also need to have software installed to run and execute a Jupyter Notebook.
