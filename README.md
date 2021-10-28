@@ -11,16 +11,16 @@ This project requires Python and the following Python libraries installed:
 
 You will also need to have software installed to run and execute a Jupyter Notebook.
 
-Code
+# Code
 
 The code is provided in the Sentiment analysis of askreddit.ipynb notebook file. You will also be required to use the included askreddit.csv dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file. Each and every code is explained fro more understanding.
 
-Data
+# Data
 
 The askreddit.csv file contains 11259 rows and 8 columns. The columns are title, score, id, url, comms_num, created	, body	and timestamp.
 
 
-Steps:-
+# Steps
 
 1. First we have to read the askreddit.csv file and retrieve all the information we can get like the shape of the file , how many columns are there in the file , Are all the values are present in the file.
 
