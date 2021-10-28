@@ -3,10 +3,10 @@
 
 ## Project: Predicting occurence of words
 
-#This project requires Python and the following Python libraries installed:
+This project requires Python and the following Python libraries installed:
 
-#Numpy
-#Matplotlib
-3Pandas
+Numpy
+Matplotlib
+Pandas
 
-#You will also need to have software installed to run and execute a Jupyter Notebook.
+You will also need to have software installed to run and execute a Jupyter Notebook.
