@@ -28,4 +28,4 @@ Steps:-
 
 3. Same thing we have to do with body column also , find some of the words that occur maximum times.
 
-4 . Then we will visualize it using matplotlib library and try to find the the words that we have consider has occured maximum times.
+4. Then we will visualize it using matplotlib library and try to find the the words that we have consider has occured maximum times.
